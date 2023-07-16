@@ -45,7 +45,7 @@ Pero el 2021 aumento considerablemente el internet de mas de 30 Mbps, esto se de
 ![Image text](https://github.com/miguelramoscanari/dashboard-acceso-internet/blob/main/Imagenes/04acceso_velocidad_prov.png)
 Observamos en las ciudades que tienen mas acceso a internet, la tendencia es que la velocidad debe ser mayor a 30 Mbps, como se dijo es porque es debido a la disminucion del costo del internet.
 
-![Image text](https://github.com/miguelramoscanari/dashboard-acceso-internet/blob/main/Imagenes/05penetracion_hab.png)
+![Image text](https://github.com/miguelramoscanari/dashboard-acceso-internet/blob/main/Imagenes/05penetracion_pareto.png)
 De acuerdo al porcentaje acumulado en algunas provincias tiene mas del 60% del servicio internet. Por lo tanto no es recomendable contratar un nuevo proveedor de servio de internet
 
 Pero en algunas provincias tenemos menos del 30% del servio de internet, por lo que es un oportunidad aprovechar ese mercado. Tenemos como ejemplo las provincias de Misiones, Santa Fruz, Mendoza, Corrientes, Chaco, Santiago del Estero, San Juan y Formosa.
