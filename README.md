@@ -46,6 +46,7 @@ Pero el 2021 aumento considerablemente el internet de mas de 30 Mbps, esto se de
 Observamos en las ciudades que tienen mas acceso a internet, la tendencia es que la velocidad debe ser mayor a 30 Mbps, como se dijo es porque es debido a la disminucion del costo del internet.
 
 ![Image text](https://github.com/miguelramoscanari/dashboard-acceso-internet/blob/main/Imagenes/05penetracion_pareto.png)
+
 De acuerdo al porcentaje acumulado en algunas provincias tiene mas del 60% del servicio internet. Por lo tanto no es recomendable contratar un nuevo proveedor de servio de internet
 
 Pero en algunas provincias tenemos menos del 30% del servio de internet, por lo que es un oportunidad aprovechar ese mercado. Tenemos como ejemplo las provincias de Misiones, Santa Fruz, Mendoza, Corrientes, Chaco, Santiago del Estero, San Juan y Formosa.
@@ -83,3 +84,15 @@ Donde AR1 es el total de accesos reportados para el primer rango (Hasta 512 kbps
 
 En argentina con respecto al servicio de datos en redes de acceso fijas, la velocidad de transferencia de datos de bajada debe ser mayor al 60% de la velocidad de transferencia nominal.
 Aclaración sobre el cálculo de la velocidad promedio de bajada de Internet fijo en Argentina.
+
+# CONCLUSIONES
+
+## Calidad del servicio (velocidad)
+Observamos que desde 2014 hasta 2019, la velocidad mas usado fue de hasta 10 Mbps. 
+
+Pero el 2021 aumento considerablemente el internet de mas de 30 Mbps, esto se debe el abaratamiento del costo del servicio de internet. Por la tanto al tendencia es ofrecer el internet de mas de 30 Mbps
+
+## Penetracion del mercado
+De acuerdo al porcentaje acumulado en algunas provincias tiene mas del 60% del servicio internet. Por lo tanto no es recomendable contratar un nuevo proveedor de servio de internet
+
+Pero en algunas provincias tenemos menos del 30% del servio de internet, por lo que es un oportunidad aprovechar ese mercado. Tenemos como ejemplo las provincias de Misiones, Santa Fruz, Mendoza, Corrientes, Chaco, Santiago del Estero, San Juan y Formosa.
