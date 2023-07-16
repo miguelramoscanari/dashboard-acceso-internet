@@ -23,6 +23,7 @@ Tareas realizadas en EDA
 
 # EDA Calidad del servicio (velocidad)
 ![Image text](https://github.com/miguelramoscanari/dashboard-acceso-internet/blob/main/Imagenes/01acceso_a%C3%B1o.png)
+
 Se hizo un analisis solo hasta el 2021, porque el periodo 2022 estaba incompleto hasta el 3 trimestre, en otros casos hasta el 1 bimestre.
 
 Observamos el acceso a internet fijo cada va aumentado año, es decir la gente va solicitando cada vez mas el servico de internet.
@@ -38,11 +39,13 @@ En el caso de Provincia de Capita Federal, en el 2017 hubo mayor cantidad de acc
 En cambio en la Provincia de Cordova, hubo un aumento de acceso a internet cada año.
 
 ![Image text](https://github.com/miguelramoscanari/dashboard-acceso-internet/blob/main/Imagenes/03acceso_velocidad.png)
+
 Observamos que desde 2014 hasta 2019, la velocidad mas usado fue de hasta 10 Mbps.
 
 Pero el 2021 aumento considerablemente el internet de mas de 30 Mbps, esto se debe el abaratamiento del costo del servicio de internet. Por la tanto al tendencia es ofrecer el internet de mas de 30 Mbps
 
 ![Image text](https://github.com/miguelramoscanari/dashboard-acceso-internet/blob/main/Imagenes/04acceso_velocidad_prov.png)
+
 Observamos en las ciudades que tienen mas acceso a internet, la tendencia es que la velocidad debe ser mayor a 30 Mbps, como se dijo es porque es debido a la disminucion del costo del internet.
 
 ![Image text](https://github.com/miguelramoscanari/dashboard-acceso-internet/blob/main/Imagenes/05penetracion_pareto.png)
@@ -52,6 +55,7 @@ De acuerdo al porcentaje acumulado en algunas provincias tiene mas del 60% del s
 Pero en algunas provincias tenemos menos del 30% del servio de internet, por lo que es un oportunidad aprovechar ese mercado. Tenemos como ejemplo las provincias de Misiones, Santa Fruz, Mendoza, Corrientes, Chaco, Santiago del Estero, San Juan y Formosa.
 
 ![Image text](https://github.com/miguelramoscanari/dashboard-acceso-internet/blob/main/Imagenes/06penetracion_hab.png)
+
 Observamos que tantao el Acceso por Cada 100 habitantes, esta en correlacion con Acceso por cada 100 hogares.
 
 # KPI INDICADORES
